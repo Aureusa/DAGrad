@@ -1,0 +1,10 @@
+# Cache and build files
+__pycache__/
+
+# VsCode
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+*.egg-info/
